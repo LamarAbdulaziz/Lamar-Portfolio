@@ -4,6 +4,7 @@ Computer Science student with strong interests in Artificial Intelligence, Data 
 I focus on building practical, real-world solutions through data-driven thinking, technical execution, and startup-oriented problem solving.
 
 ---
+
 ## Sections
 - [Startup](./startup)
 - [Projects](./projects)
@@ -22,57 +23,18 @@ I focus on building practical, real-world solutions through data-driven thinking
 - Strong background in leadership through student clubs and committees  
 - Experience working in multidisciplinary teams and hackathon environments  
 - Curious about cybersecurity and secure-by-design systems  
-- Actively exploring startup building and product development
+- Actively exploring startup building and product development  
 
 ---
 
-## Certifications
-- Cisco Networking Academy — Introduction to Data Science  
-- Cisco Networking Academy — Data Analytics Essentials  
-- Cisco Networking Academy — Introduction to Modern AI  
-- SDAIA — Fundamentals of Artificial Intelligence  
-- SDAIA — AI Concepts & Advanced Applications  
-- Continuous self-learning through projects and applied practice
-
----
-
-## Core Interests
-- Artificial Intelligence fundamentals and real-world use cases  
-- Data analytics, insight extraction, and visualization  
-- FinTech and PropTech innovation  
-- Startup feasibility analysis and ROI modeling  
-- Product thinking and MVP development  
-- Cybersecurity awareness and secure-by-design mindset
-
----
-
-## Technical Skills
-- Python for data analysis and problem solving  
-- Basic machine learning and AI concepts  
-- Data cleaning, preprocessing, and exploratory data analysis (EDA)  
-- Git and GitHub for version control and collaboration  
-- Analytical thinking and data-driven decision making  
-- Technical documentation and structured project presentation
-
----
-
-## Hackathons and Activities
-- Participation in multiple hackathons focused on real-world challenges  
-- Experience working under pressure and tight deadlines  
-- Collaboration with designers, developers, and business-focused teammates  
-- Exposure to idea validation, pitching, and MVP thinking  
-- Strong teamwork, communication, and leadership skills  
-- Continuous improvement through feedback and iteration
-
----
-
-## Conferences and Events
-- Participation in technology and cybersecurity-related events  
-- Exposure to industry professionals and emerging technologies  
-- Interest in regional and global tech conferences  
-- Networking with students, professionals, and founders  
-- Learning from real-world case studies and industry talks  
-- Staying updated with technology and innovation trends
+## Startup
+**Bunyan — PropTech & FinTech Concept**
+- Early-stage startup idea connecting property owners, investors, and banks  
+- Focus on AI-driven feasibility analysis and ROI prediction  
+- Emphasis on data-driven decision making  
+- Exploration of regulatory, technical, and business constraints  
+- Startup ideation, validation, and market research experience  
+- Long-term vision for scalable and secure solutions  
 
 ---
 
@@ -83,24 +45,94 @@ This repository includes and will continue to include:
 - Data-driven feasibility and ROI analysis examples  
 - Experimentation with AI models and analytics workflows  
 - Documentation-focused projects demonstrating structured thinking  
-- Continuous additions as my skills and experience grow
+- Continuous additions as my skills and experience grow  
 
 ---
 
-## Startup Experience
-Bunyan — PropTech and FinTech Concept
-- Early-stage startup idea connecting property owners, investors, and banks  
-- Focus on AI-driven feasibility analysis and ROI prediction  
-- Emphasis on data-driven decision making  
-- Exploration of regulatory, technical, and business constraints  
-- Startup ideation, validation, and market research experience  
-- Long-term vision for scalable and secure solutions
+## Certifications
+- Cisco Networking Academy — Introduction to Data Science  
+- Cisco Networking Academy — Data Analytics Essentials  
+- Cisco Networking Academy — Introduction to Modern AI  
+- SDAIA — Fundamentals of Artificial Intelligence  
+- SDAIA — AI Concepts & Advanced Applications  
+- Continuous self-learning through projects and applied practice  
+
+---
+
+## Meetups
+- Attendance at technology-focused meetups  
+- Engagement in discussions around innovation and emerging technologies  
+- Knowledge exchange with students and professionals  
+- Exposure to real-world technical and startup experiences  
+
+---
+
+## Conferences
+- Participation in regional and international technology conferences  
+- Exposure to cybersecurity, FinTech, and PropTech ecosystems  
+- Networking with founders, professionals, and industry leaders  
+- Learning from industry talks and real-world case studies  
+
+---
+
+## Hackathons
+- Participation in multiple hackathons focused on real-world challenges  
+- Experience working under pressure and tight deadlines  
+- Collaboration with designers, developers, and business-focused teammates  
+- Exposure to idea validation, pitching, and MVP thinking  
+
+---
+
+## Student Clubs
+**Enjaz Club – IMAMU (Cybersecurity Committee)**
+- Participated in organizing cybersecurity initiatives  
+- Contributed to technical and hands-on sessions  
+- Supported awareness efforts around digital security  
+
+**Dhaheer Club – IMAMU (Head of AI Committee)**
+- Led AI-focused initiatives and workshops  
+- Coordinated content planning and team collaboration  
+- Guided students through applied AI use cases  
+
+**Technician Club – IMAMU (HR Committee)**
+- Supported recruitment and onboarding processes  
+- Assisted in internal coordination and member engagement  
+- Contributed to a collaborative club environment  
+
+---
+
+## Activities
+- Delivered content in **Nawah Cybersecurity Program**  
+- Prepared and presented technical cybersecurity sessions  
+- Contributed to **Tahseen Cybersecurity Bootcamp** content  
+- Hands-on teaching of Linux fundamentals and security concepts  
+- Active involvement in student-led technical initiatives  
+
+---
+
+## Technical Skills
+- Python for data analysis and problem solving  
+- Basic machine learning and AI concepts  
+- Data cleaning, preprocessing, and EDA  
+- Git & GitHub for version control  
+- Analytical thinking and data-driven decision making  
+- Technical documentation and structured presentation  
+
+---
+
+## Core Interests
+- Artificial Intelligence and applied use cases  
+- Data analytics and visualization  
+- FinTech & PropTech innovation  
+- Startup feasibility analysis and ROI modeling  
+- Product thinking and MVP development  
+- Cybersecurity awareness and secure-by-design mindset  
 
 ---
 
 ## Contact and Links
 - GitHub: https://github.com/lamarbbakri  
-- LinkedIn: https://www.linkedin.com/in/lamar-abdulaziz-albakri-79a512343
+- LinkedIn: https://www.linkedin.com/in/lamar-abdulaziz-albakri-79a512343  
 
 ---
 
