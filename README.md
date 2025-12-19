@@ -4,6 +4,17 @@ Computer Science student with strong interests in Artificial Intelligence, Data 
 I focus on building practical, real-world solutions through data-driven thinking, technical execution, and startup-oriented problem solving.
 
 ---
+## Sections
+- [Startup](./startup)
+- [Projects](./projects)
+- [Certifications](./certifications)
+- [Meetups](./meetups)
+- [Conferences](./conferences)
+- [Hackathons](./hackathons)
+- [Student Clubs](./student-clubs)
+- [Activities](./activities)
+
+---
 
 ## About Me
 - Computer Science student with a passion for applied AI and data analytics  
