@@ -1,4 +1,4 @@
-# Lamar Abdulaziz AlBakri — Professional Portfolio
+# Lamar Abdulaziz — Professional Portfolio
 
 Computer Science student with strong interests in Artificial Intelligence, Data Analytics, FinTech, and PropTech.  
 I focus on building practical, real-world solutions through data-driven thinking, technical execution, and startup-oriented problem solving.
